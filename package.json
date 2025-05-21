@@ -61,7 +61,7 @@
     "node-cache": "^5.1.2",
     "uuid": "^10.0.0",
     "protobufjs": "^6.11.3",
-    "mysql2": "latest",
+    "mysql2": "latest", 
     "ws": "^8.13.0"
   },
   "devDependencies": {
